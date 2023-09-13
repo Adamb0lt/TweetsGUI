@@ -1,6 +1,6 @@
 # TweetsProj - Twitter Data Visualization
 
-![Project Logo][(project_logo.png)](https://1drv.ms/i/s!Av29aMR2Dk5rhaF4mzhT42PW-Dq3nQ?e=8fJGBx) <!-- Include a project logo or screenshot if available -->
+![Project Logo](project_logo.png)](https://1drv.ms/i/s!Av29aMR2Dk5rhaF4mzhT42PW-Dq3nQ?e=8fJGBx) <!-- Include a project logo or screenshot if available -->
 
 ## Table of Contents
 
