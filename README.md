@@ -7,8 +7,8 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Prerequisites](#prerequisites)
 - [Usage](#usage)
+- [Prerequisites](#prerequisites)
 
 ## Introduction
 
