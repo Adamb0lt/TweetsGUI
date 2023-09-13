@@ -1,6 +1,7 @@
 # TweetsProj - Twitter Data Visualization
 
-![Project Logo](project_logo.png)](https://1drv.ms/i/s!Av29aMR2Dk5rhaF4mzhT42PW-Dq3nQ?e=8fJGBx) <!-- Include a project logo or screenshot if available -->
+![Project Logo](https://github.com/Adamb0lt/TweetsGUI/assets/122646712/87b020ea-f725-49d9-8fa8-79eac0d63510)
+ <!-- Include a project logo or screenshot if available -->
 
 ## Table of Contents
 
